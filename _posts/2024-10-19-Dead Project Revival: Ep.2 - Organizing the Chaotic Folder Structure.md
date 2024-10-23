@@ -121,3 +121,9 @@ That’s pretty much it!
 There are still plenty of issues to solve, but just organizing the folders has made the project so much easier to navigate, and it’s going to make building on top of this much smoother.
 
 It’s like tidying up my room — feels so much better already!
+
+---
+
+If you want to check out my project:
+[GitHub Repo](https://github.com/kimava/sokuri)
+| [Live Demo](https://sokuri.vercel.app/)

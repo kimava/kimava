@@ -50,3 +50,9 @@ I'm determined to finish it no matter what this time. I also want to do it prope
 <br/>
 
 Now it’s time to crack on!
+
+---
+
+If you want to check out my project:
+[GitHub Repo](https://github.com/kimava/sokuri)
+| [Live Demo](https://sokuri.vercel.app/)
