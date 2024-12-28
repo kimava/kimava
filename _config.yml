@@ -4,3 +4,7 @@ sass:
   load_paths:
     - .
   style: compressed
+
+collections:
+  projects:
+    output: true
