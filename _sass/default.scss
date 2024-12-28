@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+    sans-serif;
+  background: #fff;
+}
+
+body {
+  margin: 0 auto;
+  padding: 4rem 2rem;
+  max-width: 800px;
+  height: 100vh;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+ul {
+  padding-inline-start: 1rem;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+// @media (min-width: 100ch) {
+//   body {
+//   }
+// }

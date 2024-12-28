@@ -3,3 +3,4 @@ _site/
 Gemfile.lock
 *.min.js
 *.min.css
+.scss

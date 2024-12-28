@@ -1,0 +1,6 @@
+baseurl: ''
+url: ''
+sass:
+  load_paths:
+    - .
+  style: compressed
