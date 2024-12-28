@@ -1,0 +1,22 @@
+<ul class="project">
+  {% for item in site.projects %}
+  <li class="project-item">
+    <h5>[{{ item.category }}]</h5>
+    <h3>{{ item.title }}</h3>
+    {% if item.stack %} {% for st in item.stack %}
+    <span class="project-item-stack"
+      >{{ st }}{% unless forloop.last %} ∙{% endunless %}</span
+    >
+    {% endfor %} {% endif %}
+    <p>
+      {{ item.summary }}
+      <span>
+        <a href="{{ item.url }}">(learn more...)</a>
+      </span>
+    </p>
+    {% if item.link %}
+    <a href="{{ item.link }}" class="project-item-link">visit project</a> {%
+    endif %}
+  </li>
+  {% endfor %}
+</ul>

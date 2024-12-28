@@ -23,12 +23,38 @@ h1 {
   margin-bottom: 2rem;
 }
 
+p {
+  margin-bottom: 0.75rem;
+}
+
 ul {
   padding-inline-start: 1rem;
 }
 
 li {
   margin: 0.5rem 0;
+}
+
+.project {
+  padding: 0;
+}
+
+.project-item {
+  position: relative;
+  margin-bottom: 1rem;
+  padding: 1.5rem 1rem;
+  list-style: none;
+  border: 1px solid pink;
+  border-radius: 4px;
+}
+
+.project-item-stack {
+  font-size: 0.875rem;
+  color: dimgray;
+}
+
+.project-item-link {
+  display: block;
 }
 
 // @media (min-width: 100ch) {
