@@ -57,6 +57,15 @@ li {
   display: block;
 }
 
+.bottom-space {
+  margin-bottom: 0.75rem;
+}
+
+.divider {
+  margin: 2rem 0;
+  border-top: 1px solid gray;
+}
+
 // @media (min-width: 100ch) {
 //   body {
 //   }
