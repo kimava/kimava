@@ -1,5 +1,3 @@
-const { NODE_ENV } = process.env;
-
 const metaConfig = require('./gatsby-meta-config');
 
 module.exports = {
@@ -10,14 +8,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `assets`,
-        path: `./assets`,
+        path: `${__dirname}/assets`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `content`,
-        path: `./content`,
+        path: `${__dirname}/content`,
       },
     },
     {
