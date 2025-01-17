@@ -10,14 +10,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `assets`,
-        path: NODE_ENV === 'production' ? process.env.GATSBY_ASSETS_PATH : `${__dirname}/assets`,
+        path: `./assets`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `content`,
-        path: NODE_ENV === 'production' ? process.env.GATSBY_CONTENT_PATH : `${__dirname}/content`,
+        path: `./content`,
       },
     },
     {
