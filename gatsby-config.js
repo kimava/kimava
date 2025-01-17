@@ -1,4 +1,4 @@
-const { NODE_ENV, CONTEXT: NETLIFY_ENV = NODE_ENV } = process.env;
+const { NODE_ENV } = process.env;
 
 const metaConfig = require('./gatsby-meta-config');
 
@@ -10,20 +10,19 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `assets`,
-        path: `${__dirname}/assets`,
+        path: NODE_ENV === 'production' ? process.env.GATSBY_ASSETS_PATH : `${__dirname}/assets`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `content`,
-        path: `${__dirname}/content`,
+        path: NODE_ENV === 'production' ? process.env.GATSBY_CONTENT_PATH : `${__dirname}/content`,
       },
     },
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        resolveEnv: () => NETLIFY_ENV,
         env: {
           production: {
             policy: [{ userAgent: '*' }],
