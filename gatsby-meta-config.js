@@ -51,16 +51,16 @@ module.exports = {
       {
         title: 'Optimising Ad Efficiency',
         description:
-          'Optimised ad scheduling for a small e-commerce business, increasing ROAS by 11%p in two weeks. Analysed sales data by day and time to identify high-performing time slots, addressing budget inefficiencies and preventing early depletion of ad spend.',
-        techStack: ['Google Sheets', 'Big Query', 'SQL', 'Looker Studio', 'Google Slides'],
+          'Improved ad efficiency for an e-commerce store through data analysis focusing on ROAS, CVR, and CTR.',
+        techStack: ['Google Sheets', 'Google Slides'],
         thumbnailUrl: 'ad-optimisation.png',
         links: {
           post: '',
-          github: '',
+          github: 'https://github.com/kimava/optimising-ad-efficiency',
           googlePlay: '',
           appStore: '',
           demo:
-            'https://drive.google.com/file/d/1vPrX6xzFITVv7IKOUx-Qc7NfuDKdOcyl/view?usp=drive_link',
+            'https://docs.google.com/presentation/d/1Akokt-3jYZc6cEKbmNRz8rzTG-O0-99_Wiobp8jx2tA/edit?usp=sharing',
         },
       },
       {
