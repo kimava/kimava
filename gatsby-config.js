@@ -1,3 +1,4 @@
+require('dotenv').config();
 const metaConfig = require('./gatsby-meta-config');
 
 module.exports = {
@@ -44,6 +45,15 @@ module.exports = {
         trackingId: metaConfig.ga,
         head: true,
         anonymize: true,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: [process.env.GA_MEASUREMENT_ID],
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     {
