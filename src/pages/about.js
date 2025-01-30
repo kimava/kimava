@@ -51,6 +51,7 @@ export const pageQuery = graphql`
               github
               demo
               googlePlay
+              other
               appStore
             }
           }
@@ -65,6 +66,7 @@ export const pageQuery = graphql`
               github
               demo
               googlePlay
+              other
               appStore
             }
           }

@@ -20,6 +20,8 @@ function IconButtonBar({ links = {} }) {
         return <PlayIcon {...props} />;
       case 'github':
         return <GitHubIcon {...props} />;
+      case 'other':
+        return <DescriptionIcon {...props} />;
       case 'googlePlay':
         return <AndroidIcon {...props} />;
       case 'appStore':

@@ -4,7 +4,7 @@ import IconButtonBar from '../icon-button-bar';
 import Image from '../image';
 import './style.scss';
 
-function Bio({ author, language = 'ko' }) {
+function Bio({ author, language = 'en' }) {
   if (!author) return null;
   const { bio, social, name } = author;
   return (
@@ -26,15 +26,14 @@ function Bio({ author, language = 'ko' }) {
       ) : (
         <div className="introduction english">
           <p className="title">
-            Hello,
-            <br />
-            my name is
-            <br />
             <strong>{name}</strong>
-            .<br />
+            <br />
+            Business Data Analyst
+            <br />
+            based in London 🇬🇧
           </p>
           <p className="description">
-            I'm a {bio.role} <ReactRotatingText items={bio.description} />
+            I'm <ReactRotatingText items={bio.description} />
             <br />
           </p>
           <div className="social-links">
