@@ -1,5 +1,4 @@
 ---
-emoji:
 title: 'The Users We Never Expected: How a Simple Test Redefined Our Market'
 date: '2025-02-24 22:00:00'
 author: soyeon
