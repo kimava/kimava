@@ -1,5 +1,5 @@
 ---
-emoji: 🙋🏻‍♀️
+emoji:
 title: 'The Users We Never Expected: How a Simple Test Redefined Our Market'
 date: '2025-02-24 22:00:00'
 author: soyeon
@@ -9,13 +9,13 @@ categories: data-analysis
 
 Ha! What a curveball. I had barely set up my desk in my new role when I heard the big news — our team was pivoting! But for me, the real challenge wasn’t the pivot itself. It was figuring out where to find solid data to validate our **user persona**.<br/>
 
-The core concept of the service was already set: providing transparent and detailed information on cosmetic procedures to bridge the information gap in the skincare market. But before moving forward, we needed to confirm who our actual users were—not just who we assumed they would be.<br/>
+The core concept of the service was already set: providing transparent and detailed information on cosmetic procedures to bridge the information gap in the skincare market. But before moving forward, we needed to confirm who our actual users were — not just who we assumed they would be.<br/>
 
-Our assumption? Mid-30s to early 40s who could afford pricey cosmetic procedures. But assumptions mean nothing without data. And if there’s one thing I refused to do, it was building based on guesswork. **I was determined to validate our user persona with real data—no shortcuts.**<br/>
+Our assumption? Mid-30s to early 40s who could afford pricey cosmetic procedures. But assumptions mean nothing without data. And if there’s one thing I refused to do, it was building based on guesswork. **I was determined to validate our user persona with real data — no shortcuts.**<br/>
 
 ## **A Marketing Experiment That Took Off**
 
-To verify our target audience, we needed a creative approach. Around that time, MBTI personality tests were everywhere in Korea, appealing to all age groups. So, we took that trend and adapted it into a skin type test. Users would answer a few questions and receive skincare procedure recommendations based on their skin type and age group. This allowed us to collect age demographics naturally—without making it feel intrusive.<br/>
+To verify our target audience, we needed a creative approach. Around that time, MBTI personality tests were everywhere in Korea, appealing to all age groups. So, we took that trend and adapted it into a skin type test. Users would answer a few questions and receive skincare procedure recommendations based on their skin type and age group. This allowed us to collect age demographics naturally (without making it feel intrusive.)<br/>
 
 To avoid skewing the test toward a single age group, we carefully distributed it across different online communities and social media channels where each demographic was concentrated.<br/>
 
@@ -39,4 +39,4 @@ Our best explanation was that their children were introducing the test to their 
 
 This data-driven approach didn’t just help us define our target audience — it also directly influenced our product design. With a clearer understanding of user behaviour, we adjusted the UI/UX to better serve our actual audience. And as a bonus, we introduced a new feature: “Recommended Treatments for Parents.”<br/>
 
-This experience reinforced a key lesson: **Data is powerful, but pairing it with user interviews can reveal insights that truly shape a product.**
+This experience reinforced a key lesson: **Again, don't assume! The most valuable insights emerge when data challenges assumptions and real user behaviour guides decisions.**
