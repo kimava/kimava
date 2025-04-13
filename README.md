@@ -1,7 +1,7 @@
 # Hi! I'm Soyeon.
 
 ### A little about me:
-  - 🙋🏻‍♀️ Product Manager & Business data analyst with experience in development
+  - 🙋🏻‍♀️ Data analyst & Product Manager with experience in development
   - 🇬🇧 Currently based in London
   - 💕 Passionate about product growth & extracting actionable insights from data
   - ⚡️ Thrive in fast-paced environments
