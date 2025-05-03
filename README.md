@@ -12,4 +12,4 @@
 
 **Portfolio blog** - View my blog [here](https://kimava.vercel.app/about)
 
-**Skillset** - SQL • Python • Excel • GA4 • Google Suits • HTML • CSS • JavaScript • React 
+**Skillset** - SQL • Python • HTML • CSS • JavaScript • React • React Native
