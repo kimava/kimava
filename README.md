@@ -10,6 +10,6 @@
 
 <br/>
 
-**Portfolio blog** - View my blog [here](https://kimava.vercel.app/about)
+**Portfolio blog** - View my blog [here](https://soyeon-kim-cfc058.webflow.io/)
 
 **Skillset** - SQL • Python • HTML • CSS • JavaScript • React • React Native
