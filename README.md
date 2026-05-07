@@ -11,5 +11,3 @@ Currently at Gumtree, where I work on seller experience, discovery systems, and 
 
 ## Stack
 Python · SQL · JavaScript · React · React Native · HTML · CSS
-
-## Based in London | Open to product and marketplace roles
