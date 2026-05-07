@@ -1,15 +1,15 @@
-# Hi! I'm Soyeon.
+# Hi, I'm Soyeon 👋
 
-### A little about me:
-- 🙋🏻‍♀️ I solve problems with code, data, and product thinking
-- 🇬🇧 Based in London
-- 📊 Passionate about product growth and turning data into actionable insights
-- ⚡️ Thrive in fast-paced, cross-functional environments
-- 🛠️ Previously worked across tech startups and vertical SaaS
+Product manager and operator working at the intersection of data, product, and marketplace growth.
 
+Currently at Gumtree, where I work on seller experience, discovery systems, and data structure. I use code and AI-assisted tools to move faster — whether that's building internal tools with **Cursor + Claude**, automating workflows, or analysing data to find the next high-impact opportunity.
 
-<br/>
+## What's here
+- 🛠️ Internal tooling built with Cursor + Claude (Gumtree)
+- 📊 Seoul public bin locations visualised with Python
+- 🔄 Python data migration project
 
-**Portfolio blog** - View my blog [here](https://soyeon-kim-cfc058.webflow.io/)
+## Stack
+Python · SQL · JavaScript · React · React Native · HTML · CSS
 
-**Skillset** - SQL • Python • HTML • CSS • JavaScript • React • React Native
+## Based in London | Open to product and marketplace roles
