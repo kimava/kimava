@@ -1,13 +1,16 @@
 # Hi, I'm Soyeon 👋
 
-Product manager and operator working at the intersection of data, product, and marketplace growth.
+**Marketplace Growth | Product Strategy & Operations | Search, Data & Automation**
 
-I use code and AI-assisted tools to move faster — whether that's building internal tools with **Cursor + Claude**, automating workflows, or analysing data to find the next high-impact opportunity.
+I use data, code and AI-assisted tools to turn marketplace growth problems into practical systems and experiments.
 
-## What's here
-- 🛠️ Internal tooling built with Cursor + Claude (Gumtree)
-- 📊 Seoul public bin locations visualised with Python
-- 🔄 Python data migration project
+## Selected work
 
-## Stack
-Python · SQL · JavaScript · React · React Native · HTML · CSS
+* 🎯 **Marketplace GTM Prospecting** — Built an ICP and signal-based scoring model to identify and prioritise high-potential sellers for marketplace acquisition
+* 🛠️ **Marketplace Growth Tooling** — Built Python and AI-assisted workflows to analyse marketplace data and improve operational decision-making
+* 📊 **Data Projects** — Python-based analysis, visualisation and data migration projects
+
+## Tools
+
+Python · SQL · Cursor · Claude · JavaScript · React
+
